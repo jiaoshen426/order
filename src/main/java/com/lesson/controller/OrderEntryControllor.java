@@ -34,7 +34,7 @@ public class OrderEntryControllor {
      *
      * @param model
      * @param mid     菜品id （查询用）
-     * @param cid     菜品分类id （查询用）
+     * @param cid     菜品分类id
      * @param request
      * @return
      */
